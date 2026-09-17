@@ -211,3 +211,6 @@ Sortea2 is provided as a complete free version with all features and updates inc
 ---
 
 Unlock the potential of your events with Sortea2—download now and experience the ease of random draws!
+
+---
+**Last updated:** 2026-09-17 22:32:48 UTC
